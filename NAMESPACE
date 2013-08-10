@@ -1,0 +1,3 @@
+useDynLib("RSQLite.spatialite")
+
+export("init_spatialite")

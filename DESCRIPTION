@@ -1,0 +1,13 @@
+Package: RSQLite.spatialite
+Type: Package
+Title: Spatialite extension for RSQLite
+Version: 0.0.1
+Date: 2013-08-10
+Author: Peter Schmiedeskamp <peter@thoughtspot.net>
+Maintainer: Peter Schmiedeskamp <peter@thoughtspot.net>
+Depends: RSQLite (>= 0.9-1)
+LinkingTo: RSQLite
+Description: This package allows for easy and hopefully robust loading of the Spatialite extension into RSQLite. Spatialite in turn provides a complete set of geospatial functions for use within the sqlite environment.
+URL: http://www.gaia-gis.it/gaia-sins/
+License: Artistic-2.0
+LazyLoad: yes
